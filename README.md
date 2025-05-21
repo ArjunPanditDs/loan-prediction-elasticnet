@@ -5,7 +5,7 @@
 ## Features
 - Preprocessing pipeline
 - Model training & evaluation
-- Flask API for prediction (if applicable)
+- Streamlit for predicting with UI
 
 ## Usage
 1. Clone the repo
