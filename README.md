@@ -1,4 +1,4 @@
-# Loan Prediction System - Elastic Net Model
+# Loan Prediction System - Logistic Regression Model
 
 🔮 Predicting loan eligibility using Logistic Regression.
 
