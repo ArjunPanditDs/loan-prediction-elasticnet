@@ -1,6 +1,6 @@
 # Loan Prediction System - Elastic Net Model
 
-🔮 Predicting loan eligibility using ElasticNet regression.
+🔮 Predicting loan eligibility using Logistic Regression.
 
 ## Features
 - Preprocessing pipeline
